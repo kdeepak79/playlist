@@ -1,0 +1,445 @@
+#EXTM3U x-tvg-url="https://ultimateiptv.tk/epg.xml.gz"
+#EXTINF:-1  group-title="मराठी",Shemaroo MarathiBana
+https://voot.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1  group-title="मराठी",Zee Marathi HD
+https://ultimateiptv.tk/g.php?id=out/v1/30bfd698af924d4abce147906278419c
+#EXTINF:-1  group-title="मराठी",Zee 24 Taas
+https://ultimateiptv.tk/g.php?id=out/v1/915deae3b9024babbe4e35748e296d34
+#EXTINF:-1  group-title="मराठी",ZEE TALKIES
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
+#EXTINF:-1  group-title="मराठी",Saam TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6cxTsUnfSZrj96KNHhRTHQ
+#EXTINF:-1  group-title="मराठी",Maiboli
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8
+#EXTINF:-1  group-title="मराठी",Sangeet Marathi
+https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in.m3u8
+#EXTINF:-1  group-title="मराठी",DD Sahyadri
+https://ultimateiptv.tk/g.php?id=out/v1/7716224c7ffd42b49751bb4e4941353a
+#EXTINF:-1  group-title="मराठी",In Goa 24x7
+http://optv.xyz/jio.php?Auth_Token=c3f2ab6354b820b072d460ce0a6f74dc4630a152&q=800&c=InGoa24x7
+#EXTINF:-1  group-title="मराठी",Star Pravah
+http://starshare.live:8080/live/65446gfd44/23445dsa45/23799.ts
+#EXTINF:-1  group-title="मराठी",AM News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7010.AMNews.in.m3u8
+#EXTINF:-1  group-title="मराठी",Jai Maharastra News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCHW4CFX2bDlVdBWGJkbwcZg
+#EXTINF:-1  group-title="मराठी",Lokshahi News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC2ut_DrUZvO0BzUxZ_g9fXQ
+#EXTINF:-1  group-title="मराठी",News18 Lokmat
+https://news18lokmatvoot-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1  group-title="मराठी",ABP Majha
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCH7nv1A9xIrAifZJNvt7cgA
+#EXTINF:-1  group-title="मराठी",Zee Yuva
+https://ultimateiptv.tk/g.php?id=out/v1/8cb6a17f49784fda88939f24b083af45
+#EXTINF:-1  group-title="मराठी",Sony Marathi
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1  group-title="मराठी",9X Jhakaas
+https://ultimateiptv.tk/g.php?id=out/v1/7c652edb67ba4fcba361632f4b88f5f0
+#EXTINF:-1  group-title="मराठी",TV9 Marathi
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCdOSeEq9Cs2Pco7OCn2_i5w
+#EXTINF:-1  group-title="मराठी",Fakt Marathi
+https://m-c036-j2apps.s.llnwi.net/hls/3200.FaktMarathi.in.m3u8
+#EXTINF:-1  group-title="मराठी",BBC Marathi
+https://jiocdn.fun/live.php?c=BBC_Marathi
+#EXTINF:-1  group-title="मराठी",Sugran
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCxsNU1zmm_1LTQyuOWipGvw
+#EXTINF:-1  group-title="मराठी",Zee Vajwa
+https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
+#EXTINF:-1  group-title="मराठी",Zoomon News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC75tjBgLKv7l2QOKYLqd4Hg
+#EXTINF:-1  group-title="हिंदी",Ultimate IPTV
+https://ultimateiptv.tk/video.mp4
+#EXTINF:-1  group-title="हिंदी",Sony Pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1  group-title="हिंदी",STAR Plus HD
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
+#EXTINF:-1  group-title="हिंदी",Zee TV HD
+https://ultimateiptv.tk/g.php?id=out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db
+#EXTINF:-1  group-title="हिंदी",🇺🇸 &TV HD US
+https://ultimateiptv.tk/g.php?id=andtvhdusa
+#EXTINF:-1  group-title="हिंदी",Zee Anmol
+https://ultimateiptv.tk/g.php?id=out/v1/6bcef04f1d0f4207b4c8f98525ccd37f
+#EXTINF:-1  group-title="हिंदी",DD BHARATI
+https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
+#EXTINF:-1  group-title="हिंदी",Fox News
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Alka Yagnik Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF:-1  group-title="हिंदी",Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Radio BollyFM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1  group-title="हिंदी",Radio Mirchi (peridot)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1  group-title="हिंदी",92.7 Big FM Mumbai
+http://sc-bb.1.fm:8017/
+#EXTINF:-1  group-title="हिंदी",Radio Garam Masala
+http://69.175.94.98:8146/
+#EXTINF:-1  group-title="हिंदी",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1  group-title="हिंदी",Bollywood Radio and Beyond (2)
+http://185.80.220.12:8046/stream
+#EXTINF:-1  group-title="हिंदी",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1  group-title="हिंदी",Mirchi Love
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1  group-title="हिंदी",BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+#EXTINF:-1  group-title="हिंदी",Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",Mirchi Delhi Punjab
+https://delhipunjab-lh.akamaihd.net/i/DelhiPunjab_1@4165/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Mirchi Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1  group-title="हिंदी",International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Ishq Delhi 104.8
+https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",River of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1  group-title="हिंदी",Vividh Bharti
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1  group-title="हिंदी",FM Rainbow
+https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",AIR Punjabi
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1  group-title="हिंदी",AIR Agra
+http://airlsmp-lh.akamaihd.net/i/AIRLSMP018_1@107602/master.m3u8
+#EXTINF:-1  group-title="हिंदी",AIR Gold Mumbai
+http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Hungama -Hot New Bollywood
+http://103.16.47.70:7222/;
+#EXTINF:-1  group-title="हिंदी",Hungama- 90s Once Again
+http://103.16.47.70:7444/;
+#EXTINF:-1  group-title="हिंदी",Hungama-Punjabi Hits
+http://103.16.47.70:9888/;
+#EXTINF:-1  group-title="हिंदी",Hungama-Mehfil Row
+http://103.16.47.70:9666/;
+#EXTINF:-1  group-title="हिंदी",Devraag Radio Devotional
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Sony SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Sony SET HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Star Bharat HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="हिंदी",&TV HD
+https://ultimateiptv.tk/g.php?id=out/v1/81b68c3858bf4481ad93679fd4253cf6
+#EXTINF:-1  group-title="हिंदी",Shemaroo TV
+https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",DD National
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250
+#EXTINF:-1  group-title="हिंदी",Q TV
+https://ultimateiptv.tk/g.php?id=out/v1/191365ea74eb4075bb4a3d1075242002
+#EXTINF:-1  group-title="हिंदी",Fox News
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Alka Yagnik Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF:-1  group-title="हिंदी",Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी",Radio BollyFM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1  group-title="हिंदी",Radio Mirchi (peridot)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1  group-title="हिंदी",92.7 Big FM Mumbai
+http://sc-bb.1.fm:8017/
+#EXTINF:-1  group-title="हिंदी",Radio Garam Masala
+http://69.175.94.98:8146/
+#EXTINF:-1  group-title="हिंदी",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1  group-title="हिंदी",Bollywood Radio and Beyond (2)
+http://185.80.220.12:8046/stream
+#EXTINF:-1  group-title="हिंदी",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1  group-title="हिंदी",Mirchi Love
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1  group-title="हिंदी",BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+#EXTINF:-1  group-title="हिंदी",Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",Mirchi Delhi Punjab
+https://delhipunjab-lh.akamaihd.net/i/DelhiPunjab_1@4165/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Mirchi Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1  group-title="हिंदी",International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Ishq Delhi 104.8
+https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",River of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1  group-title="हिंदी",Vividh Bharti
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1  group-title="हिंदी",FM Rainbow
+https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="हिंदी",AIR Punjabi
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1  group-title="हिंदी",AIR Agra
+http://airlsmp-lh.akamaihd.net/i/AIRLSMP018_1@107602/master.m3u8
+#EXTINF:-1  group-title="हिंदी",AIR Gold Mumbai
+http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8
+#EXTINF:-1  group-title="हिंदी",Hungama -Hot New Bollywood
+http://103.16.47.70:7222/;
+#EXTINF:-1  group-title="हिंदी",Hungama- 90s Once Again
+http://103.16.47.70:7444/;
+#EXTINF:-1  group-title="हिंदी",Hungama-Punjabi Hits
+http://103.16.47.70:9888/;
+#EXTINF:-1  group-title="हिंदी",Hungama-Mehfil Row
+http://103.16.47.70:9666/;
+#EXTINF:-1  group-title="हिंदी",Devraag Radio Devotional
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Star Gold Select Hd
+http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Miniplex
+http://212.224.98.196:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="हिंदी Movies",&Pictures
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",UTV Movies
+http://212.224.98.196:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+#EXTINF:-1  group-title="हिंदी Movies",Zee Classic
+https://ultimateiptv.tk/g.php?id=out/v1/74df8b02f8ab47909df9a9f3189a1012
+#EXTINF:-1  group-title="हिंदी Movies",TV Asia Comedy
+https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",BBO
+http://istreamtv.fun/apid/premium/stb/tsportal/pix.php?cid=147788
+#EXTINF:-1  group-title="हिंदी Movies",Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Zee Anmol Cinema
+https://ultimateiptv.tk/g.php?id=zanmolcnm
+#EXTINF:-1  group-title="हिंदी Movies",Zee Cinema US
+https://ultimateiptv.tk/g.php?id=cinemausa
+#EXTINF:-1  group-title="हिंदी Movies",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",BOX Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Abzy Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Surya Cinema
+https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Star Gold HD
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Zee Cinema HD
+https://ultimateiptv.tk/g.php?id=out/v1/1d59d08fec89495584d2b7e4059492a4
+#EXTINF:-1  group-title="हिंदी Movies",&xplorHD
+https://ultimateiptv.tk/g.php?id=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+#EXTINF:-1  group-title="हिंदी Movies",&Pictures HD
+https://ultimateiptv.tk/g.php?id=out/v1/ae9617b9d66d4564831443eb2cc15caf
+#EXTINF:-1  group-title="हिंदी Movies",UTV HD
+http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="हिंदी Movies",UTV Action
+http://212.224.98.196:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:-1  group-title="हिंदी Movies",Dish Evergreen Classics Active
+http://212.224.98.196:2200/R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
+#EXTINF:-1  group-title="हिंदी Movies",TV Asia Hindi
+https://streaming37.worldbbtv.com/hls/tvasiahindi.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Sony MAX 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Zee Bollywood
+https://ultimateiptv.tk/g.php?id=out/v1/581a1234e00a444db4e6aae80e505872
+#EXTINF:-1  group-title="हिंदी Movies",Zee Action
+https://ultimateiptv.tk/g.php?id=action
+#EXTINF:-1  group-title="हिंदी Movies",Zee Cinema ME
+https://ultimateiptv.tk/g.php?id=zeecinemame
+#EXTINF:-1  group-title="हिंदी Movies",B4U Movies (IN)
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Abzy Dhakad
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",MANORANJAN TV
+https://viacom-b.multitvsolution.com/viacomhls/manoranjantv_540p/index.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1  group-title="हिंदी Movies",Hiff Movies
+https://m-c050-j2apps.s.llnwi.net/hls/8044.HiffMovies.in.m3u8
+#EXTINF:-1  group-title="తెలుగు",ETV HD
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Star Maa HD
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Zee Telugu
+https://ultimateiptv.tk/g.php?id=/out/v1/95ba4533288e40a997c2b378f6b5c3b9
+#EXTINF:-1  group-title="తెలుగు",Gemini Life
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26572
+#EXTINF:-1  group-title="తెలుగు",ETV Plus
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Star Maa Movies HD
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Telugu Filmnagar
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCintIUOJEktQBfhEI9XXpuw
+#EXTINF:-1  group-title="తెలుగు",Mango Telugu Cinema
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCvr9er7PzdGlJzGYsMAuJCQ
+#EXTINF:-1  group-title="తెలుగు",Gemini Music
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMusicHD
+#EXTINF:-1  group-title="తెలుగు",V6 News
+http://ultimateiptv.tk/yupp.php?id=v6-news
+#EXTINF:-1  group-title="తెలుగు",ETV Andhra pradesh
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCSbwShxZsBiqqWwtUidmS6g
+#EXTINF:-1  group-title="తెలుగు",Prime 9 News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCLTZ5y21NnklrxpU5AfWd8w
+#EXTINF:-1  group-title="తెలుగు",A1 TV Telugu News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCx0GolXyQx9mi9ci0RegvZQ
+#EXTINF:-1  group-title="తెలుగు",Sakshi tv
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCQ_FATLW83q-4xJ2fsi8qAw
+#EXTINF:-1  group-title="తెలుగు",TV5 Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCAR3h_9fLV82N2FH4cE4RKw
+#EXTINF:-1  group-title="తెలుగు",Bhaarat Today
+http://ultimateiptv.tk/yupp.php?id=bharat-today
+#EXTINF:-1  group-title="తెలుగు",Studio One Plus
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCEoaVUxpFlmCxwRBy9yhb1Q
+#EXTINF:-1  group-title="తెలుగు",6TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYgQ_QOT21HE1nI4a1KyM-A
+#EXTINF:-1  group-title="తెలుగు",Raj News Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC0Bj4Nb_UfHvW5Oe2f8aCFg
+#EXTINF:-1  group-title="తెలుగు",P News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCIjXwpNFmE3ssXzewBFRlOw
+#EXTINF:-1  group-title="తెలుగు",YoYo TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCJ97pLhPp-CU9Tj4-dp9B6g
+#EXTINF:-1  group-title="తెలుగు",DD Yadagiri
+https://ultimateiptv.tk/g.php?id=out/v1/1066d6a623184be8bce34a25b7641bec
+#EXTINF:-1  group-title="తెలుగు",CVR OM Spiritual
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCR8J_jCh3T1nL6k5aKTLo7A
+#EXTINF:-1  group-title="తెలుగు",Bhakti TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCSzOZ97LOpU-_AVlGfmD4rQ
+#EXTINF:-1  group-title="తెలుగు",Sai TV Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfP_lkE3WWR4r8Zkr98A56Q
+#EXTINF:-1  group-title="తెలుగు",Discovery Channel Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_DISCOVERY_WORLD_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Nat Geo HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_NAT_GEO_TELUGU_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Kushi TV
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
+#EXTINF:-1  group-title="తెలుగు",T-SAT Vidya
+https://ultimateiptv.tk/yupp.php?id=t-sat-vidya
+#EXTINF:-1  group-title="తెలుగు",Gemini TV HD
+http://212.224.98.196:2200/R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Zee Telugu HD
+https://ultimateiptv.tk/g.php?id=zeeteleguhd
+#EXTINF:-1  group-title="తెలుగు",ETV Abhiruchi
+http://optv.xyz/jio.php?Auth_Token=c3f2ab6354b820b072d460ce0a6f74dc4630a152&q=800&c=ETV_Abhiruchi
+#EXTINF:-1  group-title="తెలుగు",ETV Life
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Vanitha
+http://ultimateiptv.tk/yupp.php?id=vanitha-tv
+#EXTINF:-1  group-title="తెలుగు",Zee Cinemalu
+https://ultimateiptv.tk/g.php?id=zcinemalusd
+#EXTINF:-1  group-title="తెలుగు",Rashi Telugu HD
+http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
+#EXTINF:-1  group-title="తెలుగు",Gemini Comedy
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9027
+#EXTINF:-1  group-title="తెలుగు",TV9 Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCPXTXMecYqnRKNdqdVOGSFg
+#EXTINF:-1  group-title="తెలుగు",T News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCU7kNjtuEfaOc9CUn0zmrqw
+#EXTINF:-1  group-title="తెలుగు",ABN Andhra Jyothi
+https://ultimateiptv.tk/g.php?id=out/v1/5a541b9d430148fd804eb9a05dcf1523
+#EXTINF:-1  group-title="తెలుగు",hmtv
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCNZOrs1QBt8cJnv9ud96qRA
+#EXTINF:-1  group-title="తెలుగు",Mahaa News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCDKjhgRoPF1CQk7HluMz23A
+#EXTINF:-1  group-title="తెలుగు",NTV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
+#EXTINF:-1  group-title="తెలుగు",I News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC4jYxQXFqB5q6INV6WEQC2A
+#EXTINF:-1  group-title="తెలుగు",10 TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfymZbh17_3T_UhgjkQ9fRQ
+#EXTINF:-1  group-title="తెలుగు",Studio Yuva
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCqR2tCs8ufgAjRd6rn4a2wg
+#EXTINF:-1  group-title="తెలుగు",CVR News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCixD-KrpjXtMupkzkdFFlFg
+#EXTINF:-1  group-title="తెలుగు",News1 Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC9sMBW_zj8zjoZ0ti3XuZOQ
+#EXTINF:-1  group-title="తెలుగు",Sneha TV
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCX3s427Q3fgxCasbCwP07UQ
+#EXTINF:-1  group-title="తెలుగు",CVR Health
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCxjNpZy1V5Gl8pKmOBTLm-Q
+#EXTINF:-1  group-title="తెలుగు",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+#EXTINF:-1  group-title="తెలుగు",Hindu Dharmam
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCMg2yY8OzHhw6mOvgIkaXYg
+#EXTINF:-1  group-title="తెలుగు",Omkaram Bhakti
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCJKZ1HvOUPHqzBM5nP5YBGg
+#EXTINF:-1  group-title="తెలుగు",Mana TV
+http://ultimateiptv.tk/yupp.php?id=mana-tv
+#EXTINF:-1  group-title="తెలుగు",History TV18 HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",Sony BBC Earth HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_BBC_EARTH_HD-in/index.m3u8?token=
+#EXTINF:-1  group-title="తెలుగు",T-SAT Nipuna
+https://ultimateiptv.tk/yupp.php?id=t-sat-nipuna
+#EXTINF:-1  group-title="తెలుగు",TV Asia తెలుగు
+https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
+#EXTINF:-1  group-title="Lifestyle",Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+#EXTINF:-1  group-title="Lifestyle",Epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
+#EXTINF:-1  group-title="Lifestyle",TLC Hindi
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:-1  group-title="Lifestyle",Travel XP HD Hindi
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1  group-title="Lifestyle",Travel XP HD GB
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="Lifestyle",xPlore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Lifestyle",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1  group-title="Lifestyle",Asian Food Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1  group-title="Lifestyle",Zee Zest HD
+https://ultimateiptv.tk/g.php?id=out/v1/8b3c00846f3040cd84c3f37d9f36ea75
+#EXTINF:-1  group-title="Lifestyle",TLC HD English
+http://optv.xyz/jio.php?Auth_Token=c3f2ab6354b820b072d460ce0a6f74dc4630a152&q=800&c=TLC_HD_World
+#EXTINF:-1  group-title="Lifestyle",TLC SE Asia
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Lifestyle",Travel XP HD AU
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  group-title="Lifestyle",Travel Channel
+http://mcsh.xyz:8080/abcdef/800900/51943
+#EXTINF:-1  group-title="Lifestyle",TasteMade
+https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
+#EXTINF:-1  group-title="Lifestyle",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
